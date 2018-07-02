@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">LOTRquiz</string>
+
+    <string name="question1">1. In what country was Hugo Weaving, the actor who portrayed Lord Elrond born?</string>
+    <string name="question1_choice1">Australia</string>
+    <string name="question1_choice2">Wales</string>
+    <string name="question1_choice3">Nigeria</string>
+
+    <string name="question2">2. Who did Smeagol aka Gollum kill to possess the One Ring? Deagol or Feagol</string>
+
+    <string name="question3">3. Which two hobbits did Frodo and Sam meet while leaving The Shire and who joined them in their quest.</string>
+    <string name="question3_choice1">Meriadoc Brandybuck</string>
+    <string name="question3_choice2">Legolas Proudfoot</string>
+    <string name="question3_choice3">Peregrin Took</string>
+    <string name="question3_choice4">Bilbo Baggins</string>
+
+    <string name="question4">4. The author that wrote the Lord of the Rings books was named Prof. J.R.R. ____________?</string>
+
+    <string name="question5">5 Which actor portrayed the character, Samwise Gamgee in the movies?</string>
+    <string name="question5_choice1">Sean Bean</string>
+    <string name="question5_choice2">Sean Astin</string>
+    <string name="question5_choice3">Sean Penn</string>
+
+    <string name="question6">6. Before the Orcs came into being, what kind of creatures where they? Men, Elves or Dwarves?</string>
+
+    <string name="question7">7. What towers where being referred to in the book title, "The Two Towers"?</string>
+    <string name="question7_choice1">Barad-dur</string>
+    <string name="question7_choice2">Cirith Ungol</string>
+    <string name="question7_choice3">Minas Mogul</string>
+    <string name="question7_choice4">Orthanc</string>
+
+    <string name="question8">8. How do members of the Proudfoot family prefer to be called when more than one of them is present? Proudfoots or Proudfeet?</string>
+
+    <string name="question9">9. Who rides upon the horse, Shadowfax?</string>
+    <string name="question9_choice1">Gandalf the Grey</string>
+    <string name="question9_choice2">Gandalf the White</string>
+
+    <string name="question10">10. What was the name of the younger brother of Boromir of Gondor?</string>
+
+    <string name="submit_answers">Submit Answers</string>
+
+</resources>
